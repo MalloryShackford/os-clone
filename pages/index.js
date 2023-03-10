@@ -69,10 +69,9 @@ export default function Home() {
             Connect Wallet
           </button>
           <div className={style.details}>
-            You need Chrome to be
-            <br /> able to run this app.
-            <br />(Must be connected 
-            <br />to Goerli Test Network).
+            Must be connected
+     <br /> to Goerli Test Network
+     <br /> to be able to run this app.
           </div>
         </div>
       )}
