@@ -71,6 +71,8 @@ export default function Home() {
           <div className={style.details}>
             You need Chrome to be
             <br /> able to run this app.
+            <br />(Must be connected 
+            <br />to Goerli Test Network).
           </div>
         </div>
       )}
